@@ -1,0 +1,10 @@
+{
+  "routes": [
+    "/",
+    "/booking",
+    "/dashboard",
+    "/login",
+    "/property-type",
+    "/site-master"
+  ]
+}
